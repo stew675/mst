@@ -1,4 +1,5 @@
 // Author: Stew Forster
+// Email: stew675@gmail.com
 // Date: 21 Jan 2023
 // Free for use for any purpose so long as the authorship is kept intact.
 
