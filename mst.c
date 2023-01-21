@@ -1,3 +1,7 @@
+// Author: Stew Forster
+// Date: 21 Jan 2023
+// Free for use for any purpose so long as the authorship is kept intact.
+
 #include	<stdio.h>
 #include	<stdint.h>
 #include	<stdlib.h>
